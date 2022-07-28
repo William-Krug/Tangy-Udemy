@@ -25,3 +25,6 @@
 /Users/zeddicus/dev/TangyWeb_Server/obj/Debug/net6.0/TangyWeb_Server.pdb
 /Users/zeddicus/dev/TangyWeb_Server/obj/Debug/net6.0/TangyWeb_Server.genruntimeconfig.cache
 /Users/zeddicus/dev/TangyWeb_Server/obj/Debug/net6.0/ref/TangyWeb_Server.dll
+/Users/zeddicus/dev/TangyWeb_Server/bin/Debug/net6.0/Tangy_Models.dll
+/Users/zeddicus/dev/TangyWeb_Server/bin/Debug/net6.0/Tangy_Models.pdb
+/Users/zeddicus/dev/TangyWeb_Server/obj/Debug/net6.0/TangyWeb_Server.csproj.CopyComplete
