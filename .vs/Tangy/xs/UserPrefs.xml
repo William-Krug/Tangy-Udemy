@@ -1,6 +1,38 @@
 ﻿<Properties StartupConfiguration="{C197B923-A7D4-45F7-A4AE-CFF2570C29B3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TangyWeb__Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TangyWeb__Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.Tangy__Models FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.TangyWeb__Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Learn Blazor/LearnBlazorComponents/_AnotherChildComponent.razor">
+    <Files>
+      <File FileName="Pages/Learn Blazor/LearnBlazorComponents/_AnotherChildComponent.razor" Line="26" Column="2" />
+      <File FileName="Pages/Learn Blazor/ParentComponent.razor" Line="19" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tangy" expanded="True">
+            <Node name="Tangy_Models" expanded="True">
+              <Node name="LearnBlazorModels" expanded="True" />
+            </Node>
+            <Node name="TangyWeb_Server" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Learn Blazor" expanded="True">
+                  <Node name="LearnBlazorComponents" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Shared" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
