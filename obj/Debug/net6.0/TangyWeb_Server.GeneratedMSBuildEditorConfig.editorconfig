@@ -59,6 +59,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0xlYXJuQmxhem9yQ29tcG9uZW50cy9fSW5kaXZpZHVhbFByb2R1Y3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/zeddicus/dev/TangyWeb_Server/Pages/Learn Blazor/LearnRouting.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0xlYXJuUm91dGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/zeddicus/dev/TangyWeb_Server/Pages/Learn Blazor/ParentComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL1BhcmVudENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
