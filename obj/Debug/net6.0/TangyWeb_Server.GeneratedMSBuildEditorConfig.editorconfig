@@ -35,6 +35,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0JpbmRQcm9wLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/zeddicus/dev/TangyWeb_Server/Pages/Learn Blazor/BlazorJs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0JsYXpvckpzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/zeddicus/dev/TangyWeb_Server/Pages/Learn Blazor/DemoProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0RlbW9Qcm9kdWN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -59,8 +63,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0xlYXJuQmxhem9yQ29tcG9uZW50cy9fSW5kaXZpZHVhbFByb2R1Y3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/zeddicus/dev/TangyWeb_Server/Pages/Learn Blazor/LearnBlazorComponents/_LifeCycleChild.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0xlYXJuQmxhem9yQ29tcG9uZW50cy9fTGlmZUN5Y2xlQ2hpbGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/zeddicus/dev/TangyWeb_Server/Pages/Learn Blazor/LearnRouting.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0xlYXJuUm91dGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zeddicus/dev/TangyWeb_Server/Pages/Learn Blazor/LifeCycle.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4gQmxhem9yL0xpZmVDeWNsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/zeddicus/dev/TangyWeb_Server/Pages/Learn Blazor/ParentComponent.razor]

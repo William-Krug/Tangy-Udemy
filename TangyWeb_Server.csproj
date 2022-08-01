@@ -9,14 +9,20 @@
   <ItemGroup>
     <None Remove="Pages\Learn Blazor\" />
     <None Remove="Pages\Learn Blazor\LearnBlazorComponents\" />
+    <None Remove="Helper\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Pages\Learn Blazor\" />
     <Folder Include="Pages\Learn Blazor\LearnBlazorComponents\" />
+    <Folder Include="wwwroot\js\" />
+    <Folder Include="Helper\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tangy_Models\Tangy_Models.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\js\" />
   </ItemGroup>
 </Project>

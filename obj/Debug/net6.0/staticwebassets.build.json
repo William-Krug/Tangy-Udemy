@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "icdYMAJAuqxQKAC97kf802wJjhGFiDT5slsL603DYlI=",
+  "Hash": "z5sjIYQTXOGvxUiC0GqV7dBDIyglZlcWGaVpubiseqc=",
   "Source": "TangyWeb_Server",
   "BasePath": "_content/TangyWeb_Server",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/zeddicus/dev/TangyWeb_Server/wwwroot/js/common.js",
+      "SourceId": "TangyWeb_Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/zeddicus/dev/TangyWeb_Server/wwwroot/",
+      "BasePath": "_content/TangyWeb_Server",
+      "RelativePath": "js/common.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/common.js"
     }
   ]
 }
